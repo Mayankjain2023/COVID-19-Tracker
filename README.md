@@ -1,6 +1,6 @@
 # COVID-19-Tracker
 
-I developed using HTML,CSS,Javascript and React js 
+I developed this website using HTML,CSS,Javascript and React js 
 <br>
 
 Website shows real-time statistics of current cases,recovered cases and fatalities worldwide as well as country wise
